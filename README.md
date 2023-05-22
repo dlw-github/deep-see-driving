@@ -35,7 +35,7 @@ and Velodyne Puck Hi-Res LiDAR sensor. Using the captured data, it trains a comp
 8. ```sudo apt-get install tcpdump```
 9. ```pip install --pre scapy[basic]```
 10. ```pip install picamera```
-11. ```pip install -r [requirements.txt](requirements.txt)```
+11. ```pip install -r requirements.txt```
 
 ## Capturing data on the Robot
 To capture stereo camera data on the robot, run [capture.py](Robot/capture.py).

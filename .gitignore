@@ -1,0 +1,11 @@
+*venv*
+.idea
+*run*
+*models*
+*model*
+*optimizer*
+.idea
+*output*
+*loss*
+*Archive*
+__pycache__
